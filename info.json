@@ -1,6 +1,7 @@
 {
     "autosave_minutes": "10",
     "commit_autosave_message": "Test of add.2o7Net",
+    "currently_under_test": "0",
     "days_until_next_test": "2",
     "last_test": "1515641128",
     "list_name": "add.2o7Net.list",
