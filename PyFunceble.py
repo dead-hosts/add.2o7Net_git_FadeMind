@@ -151,6 +151,8 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     to_filter = ''
     # Activation/Deactivation of Travis CI autosave system.
     travis = False
+    # This tell us in which branch we have to push
+    travis_branch = 'master'
     # Minimum of minutes before we start commiting to upstream under Travis CI.
     travis_autosave_minutes = 10
     # Default travis final commit message
@@ -389,6 +391,7 @@ class Settings(object):  # pylint: disable=too-few-public-methods
             'percentage': 'https://git.io/v7xtP',
             'plain_list_domain': 'Unknown',
             'quiet': 'Unknown',
+            'share_logs': 'Unknown',
             'simple': 'Unknown',
             'split_files': 'Unknown',
             'travis': 'Unknown'
@@ -752,7 +755,9 @@ class AutoSave(object):
                     Helpers.Command(command %
                                     Settings.travis_autosave_commit).execute()
 
-                Helpers.Command('git push origin master').execute()
+                Helpers.Command(
+                    'git push origin %s' %
+                    Settings.travis_branch).execute()
                 exit(0)
             return
         except AttributeError:
@@ -1042,7 +1047,7 @@ class Prints(object):
         if not Settings.no_files \
             and self.output is not None \
                 and self.output != '' \
-        and not path.isfile(self.output):
+            and not path.isfile(self.output):
             link = ("# File generated with %s\n" % Settings.link_to_repo)
             date_of_generation = (
                 "# Date of generation: %s \n\n" %
@@ -1783,13 +1788,27 @@ class Referer(object):
         self.ignored_extension = [
             'ad',
             'al',
+            'an',
             'ao',
+            'aq',
             'arpa',
             'az',
             'ba',
             'bb',
             'bd',
+            'bf',
+            'bh',
+            'bl',
+            'bq',
             'bs',
+            'bt',
+            'bv',
+            'cg',
+            'ck',
+            'cu',
+            'cv',
+            'cw',
+            'cy',
             'eg',
             'et',
             'fm',
@@ -2465,8 +2484,8 @@ if __name__ == '__main__':
              'https://git.io/vND4a'),
             add_help=False)
 
-        CURRENT_VALUE_FORMAT = Fore.YELLOW + Style.BRIGHT + "Current value: " \
-            + Fore.BLUE
+        CURRENT_VALUE_FORMAT = Fore.YELLOW + \
+            Style.BRIGHT + "Installed value: " + Fore.BLUE
 
         PARSER.add_argument(
             '-a',
@@ -2612,6 +2631,15 @@ if __name__ == '__main__':
                  Settings.quiet) +
              Style.RESET_ALL))
         PARSER.add_argument(
+            '--share-logs',
+            action='store_true',
+            help='Activate the sharing of logs to an API which helps manage logs in \
+                order to make PyFunceble a better script. %s' %
+            (CURRENT_VALUE_FORMAT +
+             repr(
+                 Settings.share_logs) +
+             Style.RESET_ALL))
+        PARSER.add_argument(
             '-s',
             '--simple',
             action='store_true',
@@ -2647,10 +2675,19 @@ if __name__ == '__main__':
                  Settings.travis) +
              Style.RESET_ALL))
         PARSER.add_argument(
+            '--travis-branch',
+            type=str,
+            default='master',
+            help='Switch the branch name where we are going to push. %s' %
+            (CURRENT_VALUE_FORMAT +
+             repr(
+                 Settings.travis_branch) +
+             Style.RESET_ALL))
+        PARSER.add_argument(
             '-v',
             '--version',
             action='version',
-            version='%(prog)s 0.23.0-beta'
+            version='%(prog)s 0.24.0-beta'
         )
 
         ARGS = PARSER.parse_args()
@@ -2707,6 +2744,9 @@ if __name__ == '__main__':
         if ARGS.quiet:
             Settings.quiet = Settings().switch('quiet')
 
+        if ARGS.share_logs:
+            Settings.share_logs = Settings().switch('share_logs')
+
         if ARGS.simple:
             Settings.simple = Settings().switch('simple')
             Settings.quiet = Settings().switch('quiet')
@@ -2720,5 +2760,8 @@ if __name__ == '__main__':
 
         if ARGS.travis:
             Settings.travis = Settings().switch('travis')
+
+        if ARGS.travis_branch:
+            Settings.travis_branch = ARGS.travis_branch
 
         PyFunceble(ARGS.domain, ARGS.file)
