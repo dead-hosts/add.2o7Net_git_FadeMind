@@ -2,7 +2,7 @@ env:
   global:
     - secure: jd9On6LWxQBeM3ioxHgZFfQtnHy7ASlWhJwfa7EoAOvGsK7NMl748yt4lUm6PcVaKTc3FsIMYGrmy8ZZWCe8t3MNxpZ0lh10O//5OoaTBiE86XoZPsyQeJb3idPM/20k2ZTutdUoZSdG7vd966j4FXg1ORbDoqsyB8q8FNlJHRtGb/aT7HyXIzHrMWid8yi/bgLw9Kyrua/kFDPGvWWnlGy06SzriohR5FGynyuZdx51A1EbUx2sQQ0g59iQc5oo5ecSVr5zP/RmIiKoLA1/SVl4vFBAS86mZsOsRfOZDUOiGgYQiGJjS/A5D3XL2omLUsQRC1MReMoYCHFyCn8W7y9rxn3Ofyyt8V/22231MMoUGJLEoMCaZqVcJXD2lPiN4gYughqiWBwmCTYGq84nXIb4zTkVQV6H2dA/L+aJHnwgpOmEI64Ef8Upcg3Ft5Tgu9ytbm2BCOq/Eb/oy7JbqZcC8hIbZYfH4FLJ74g10pk+DZkwmf3mcZEORdMYypO3xatzGyVr1LG/LDOGkViZj3iAO3UL4pERz75WVk+E6QChf9XxoJXdcrZYkz/ErxXSoFIfTIvQNGH/gM7Z0sZraTGYdM2mYhy7p5EfzkY9IQ+x/iICZchPFnX3xhlG8U3/NdYw4zfLGu+VArA8TLxsoTjEA4HDKMJFGlVZiw0SqX4=
     - GIT_NAME: Travis CI
-    - GIT_EMAIL: funilrys@outlook.com
+    - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/add.2o7Net_git_FadeMind
     - GIT_BRANCH: master
 
