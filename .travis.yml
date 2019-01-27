@@ -1,32 +1,43 @@
 env:
   global:
-    - secure: jd9On6LWxQBeM3ioxHgZFfQtnHy7ASlWhJwfa7EoAOvGsK7NMl748yt4lUm6PcVaKTc3FsIMYGrmy8ZZWCe8t3MNxpZ0lh10O//5OoaTBiE86XoZPsyQeJb3idPM/20k2ZTutdUoZSdG7vd966j4FXg1ORbDoqsyB8q8FNlJHRtGb/aT7HyXIzHrMWid8yi/bgLw9Kyrua/kFDPGvWWnlGy06SzriohR5FGynyuZdx51A1EbUx2sQQ0g59iQc5oo5ecSVr5zP/RmIiKoLA1/SVl4vFBAS86mZsOsRfOZDUOiGgYQiGJjS/A5D3XL2omLUsQRC1MReMoYCHFyCn8W7y9rxn3Ofyyt8V/22231MMoUGJLEoMCaZqVcJXD2lPiN4gYughqiWBwmCTYGq84nXIb4zTkVQV6H2dA/L+aJHnwgpOmEI64Ef8Upcg3Ft5Tgu9ytbm2BCOq/Eb/oy7JbqZcC8hIbZYfH4FLJ74g10pk+DZkwmf3mcZEORdMYypO3xatzGyVr1LG/LDOGkViZj3iAO3UL4pERz75WVk+E6QChf9XxoJXdcrZYkz/ErxXSoFIfTIvQNGH/gM7Z0sZraTGYdM2mYhy7p5EfzkY9IQ+x/iICZchPFnX3xhlG8U3/NdYw4zfLGu+VArA8TLxsoTjEA4HDKMJFGlVZiw0SqX4=
+    - secure: csNTxydihJNzSV0vr5ECyrbDJuV9bUW5hhK0xzBb/HSGs/Ty5f27ymEAEeYeaCPoprk4juyWE2GlrbKqbIjagDy8njBNs+3BUzLQFVcZ5rr+mXzfZv8vzIYLke6Yor4aApFdk9YVUL4Y2IL+Go0q9UCzjA8MuYB/fdvL2EwvkwGh5/VRsfFi+cmxEAeif1433V3Ilw92CZSaTgKl2nqj5IK13jmdvz2Nh/OMdhZVxL3To8qP02RKkVtj3aDgXGFQyluivYkkGYTqoYT3qua6feaQBVXR1Ogkk1KikYjtx4Ar/u6PGHZSCzQeAoSmBEy7JLIMMeBK5uD/nrBxWam4+jHRQUziB7CzC0lLUYZkPDHF2MuZyaS2tuZWc8a/P6UJO+OrPUYe5jT5RhMuVxXY4as9qdfvFxa2XNbNOblBvPcAm0H3Wp1WIxlM/JXF/cIoLhZXfiapEorIPm+9QJGfvNfmVf6tYKknnxcMEdl1gPeQR8a7+SCZYkGyGcfSqgpGMofEgklAXcBvT7WxNiSh8NbTve/VdHtfEjPFxPuiTPG6/OzuQDv6qVd5Zg9OArhpRAB6v0n7gNsQuHZXWpV4VQRbi/TenL7Fd+ZhzzwKvz/Ni0/sXThwmTgTRlWIFqehklJqK4xaZO0lA288PsL5fvVu0kZinw/bLrSjUSCM7X8=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/add.2o7Net_git_FadeMind
     - GIT_BRANCH: master
+    - UPDATE_ME_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/update_me.py
+    - ADMIN_LOCATION: https://raw.githubusercontent.com/dead-hosts/repository-structure/master/admin.py
+
+dist: xenial
+sudo: required
 
 language: python
 
 python:
-  - "3.6"
+  - "3.7"
 
 matrix:
   fast_finish: true
 
 cache:
-  - apt
   - pip
 
-sudo: required
+addons:
+  apt:
+    packages:
+      - dos2unix
 
-before_install:
-  - sudo apt-get -y install dos2unix
-  - pip3 install colorama
+install:
+  - pip3 install --upgrade pip
+  - pip3 install requests
+
+before_script:
+  - if [[ ! -f .administrators ]]; then wget "${UPDATE_ME_LOCATION}" -o /dev/null -O update_me.py && chmod +x update_me.py; else echo "update_me not downloaded :)"; fi
+  - if [[ ! -f .administrators ]]; then wget "${ADMIN_LOCATION}" -o /dev/null -O admin.py && chmod +x admin.py; else echo "admin not downloaded :)"; fi
 
 script:
-  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble && python3 ./update_me.py
+  - python3 update_me.py
 
 notifications:
-  on_success:   change
-  on_failure:   always
+  on_success: change
+  on_failure: always
