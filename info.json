@@ -1,16 +1,21 @@
 {
-    "arguments": [],
-    "clean_list_file": "clean.list",
-    "clean_original": "1",
-    "commit_autosave_message": "Test of add.2o7Net",
-    "currently_under_test": "0",
-    "days_until_next_test": "0",
-    "last_test": "1565598382",
-    "list_name": "add.2o7Net.list",
-    "name": "add.2o7Net",
+    "currently_under_test": false,
+    "custom_pyfunceble_config": {},
+    "days_until_next_test": 0.0,
+    "finish_datetime": "2019-08-12T12:44:41.200576",
+    "finish_timestamp": 1565613881.200576,
+    "last_download_datetime": "2019-08-12T12:36:59.546130",
+    "last_download_timestamp": 1565613419.54613,
+    "latest_part_finish_datetime": "2019-08-12T12:44:41.200576",
+    "latest_part_finish_timestamp": 1565613881.200576,
+    "latest_part_start_datetime": "2019-08-12T12:37:00.210253",
+    "latest_part_start_timestamp": 1565613420.210253,
+    "name": "add.2o7Net_git_FadeMind",
+    "own_management": false,
     "ping": [
-        "FadeMind"
+        "@FadeMind"
     ],
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
-    "stable": "0"
+    "start_datetime": "2019-08-12T12:37:00.207145",
+    "start_timestamp": 1565613420.207145
 }
