@@ -3,168 +3,6 @@
         "1560844584": {}
     },
     "/home/travis/build/dead-hosts/add.2o7Net_git_FadeMind/domains.list": {
-        "1570791981": {
-            "ups.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570791982": {
-            "autodesk.tt.omtrdc.net": "INACTIVE",
-            "overstock.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570791985": {
-            "comcast.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570791989": {
-            "channel4.com.ssl.sc.omtrdc.net": "INACTIVE"
-        },
-        "1570791990": {
-            "pennwellco.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570791991": {
-            "foxnews.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570791999": {
-            "westernunion.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792000": {
-            "oreck.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792004": {
-            "bcbsks.com.102.112.2o7.net": "INACTIVE"
-        },
-        "1570792005": {
-            "adobe.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792008": {
-            "makemytrip.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792011": {
-            "deseretdigitalmedia.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792012": {
-            "veritastechnologiesl.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792013": {
-            "duluthtrading.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792015": {
-            "primetimesolutions.tt.omtrdc.net": "INACTIVE",
-            "toysrus.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792017": {
-            "rentcom.tt.omtrdc.net": "INACTIVE",
-            "searsholdings.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792022": {
-            "myfamilycominc.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792029": {
-            "aclu.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792044": {
-            "usaa.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792047": {
-            "ringcentral.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792049": {
-            "asadventure.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792050": {
-            "alchemyworldwide.tt.omtrdc.net": "INACTIVE",
-            "wpni.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792057": {
-            "angieslist.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792065": {
-            "webroot.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792198": {
-            "usbank.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792331": {
-            "condenast.insight.omtrdc.net": "INACTIVE"
-        },
-        "1570792333": {
-            "isaca.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792337": {
-            "vodafoneindia.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792340": {
-            "registercom.tt.omtrdc.net": "INACTIVE",
-            "trendmicro.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792342": {
-            "netappinc.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792344": {
-            "btbusiness.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792345": {
-            "premierfarnell.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792347": {
-            "consumerreports.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792349": {
-            "constantcontact.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792484": {
-            "mcdonaldscorporation.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792486": {
-            "carbonite.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792488": {
-            "telegraphmediagroupl.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792489": {
-            "productpartnersllc.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792493": {
-            "britishskybroadcasti.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792496": {
-            "marriottinternationa.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792500": {
-            "shell.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792504": {
-            "dellinc.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792508": {
-            "verizontelecom.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570792510": {
-            "williamhill.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570797181": {
-            "tirerack.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570797187": {
-            "readersdigest.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570797188": {
-            "insightenterprises.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570797189": {
-            "mcafee12.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570797190": {
-            "australianewzealandb.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570797191": {
-            "arthurmiddletoncapit.tt.omtrdc.net": "INACTIVE",
-            "educationmanagementl.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570797192": {
-            "americaneagleoutfitt.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570797194": {
-            "permissioninteractiv.tt.omtrdc.net": "INACTIVE"
-        },
         "1570959290": {
             "eharmony.tt.omtrdc.net": "INACTIVE"
         },
@@ -228,6 +66,88 @@
         },
         "1570959687": {
             "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
+        },
+        "1570963395": {
+            "carbonite.tt.omtrdc.net": "INACTIVE",
+            "shell.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570963396": {
+            "arthurmiddletoncapit.tt.omtrdc.net": "INACTIVE",
+            "asadventure.tt.omtrdc.net": "INACTIVE",
+            "autodesk.tt.omtrdc.net": "INACTIVE",
+            "bcbsks.com.102.112.2o7.net": "INACTIVE",
+            "ups.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570963397": {
+            "americaneagleoutfitt.tt.omtrdc.net": "INACTIVE",
+            "consumerreports.tt.omtrdc.net": "INACTIVE",
+            "mcafee12.tt.omtrdc.net": "INACTIVE",
+            "oreck.tt.omtrdc.net": "INACTIVE",
+            "productpartnersllc.tt.omtrdc.net": "INACTIVE",
+            "searsholdings.tt.omtrdc.net": "INACTIVE",
+            "usbank.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570963398": {
+            "dellinc.tt.omtrdc.net": "INACTIVE",
+            "deseretdigitalmedia.tt.omtrdc.net": "INACTIVE",
+            "duluthtrading.tt.omtrdc.net": "INACTIVE",
+            "foxnews.tt.omtrdc.net": "INACTIVE",
+            "registercom.tt.omtrdc.net": "INACTIVE",
+            "toysrus.tt.omtrdc.net": "INACTIVE",
+            "williamhill.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570963399": {
+            "alchemyworldwide.tt.omtrdc.net": "INACTIVE",
+            "btbusiness.tt.omtrdc.net": "INACTIVE",
+            "constantcontact.tt.omtrdc.net": "INACTIVE",
+            "educationmanagementl.tt.omtrdc.net": "INACTIVE",
+            "ringcentral.tt.omtrdc.net": "INACTIVE",
+            "tirerack.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570963400": {
+            "angieslist.tt.omtrdc.net": "INACTIVE",
+            "australianewzealandb.tt.omtrdc.net": "INACTIVE",
+            "isaca.tt.omtrdc.net": "INACTIVE",
+            "makemytrip.tt.omtrdc.net": "INACTIVE",
+            "telegraphmediagroupl.tt.omtrdc.net": "INACTIVE",
+            "verizontelecom.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570963401": {
+            "adobe.tt.omtrdc.net": "INACTIVE",
+            "marriottinternationa.tt.omtrdc.net": "INACTIVE",
+            "mcdonaldscorporation.tt.omtrdc.net": "INACTIVE",
+            "netappinc.tt.omtrdc.net": "INACTIVE",
+            "veritastechnologiesl.tt.omtrdc.net": "INACTIVE",
+            "westernunion.tt.omtrdc.net": "INACTIVE",
+            "wpni.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570963402": {
+            "aclu.tt.omtrdc.net": "INACTIVE",
+            "comcast.tt.omtrdc.net": "INACTIVE",
+            "permissioninteractiv.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570963531": {
+            "condenast.insight.omtrdc.net": "INACTIVE",
+            "trendmicro.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570963534": {
+            "britishskybroadcasti.tt.omtrdc.net": "INACTIVE",
+            "insightenterprises.tt.omtrdc.net": "INACTIVE",
+            "myfamilycominc.tt.omtrdc.net": "INACTIVE",
+            "pennwellco.tt.omtrdc.net": "INACTIVE",
+            "readersdigest.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570963535": {
+            "overstock.tt.omtrdc.net": "INACTIVE",
+            "rentcom.tt.omtrdc.net": "INACTIVE",
+            "usaa.tt.omtrdc.net": "INACTIVE",
+            "webroot.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570963536": {
+            "channel4.com.ssl.sc.omtrdc.net": "INACTIVE",
+            "premierfarnell.tt.omtrdc.net": "INACTIVE",
+            "primetimesolutions.tt.omtrdc.net": "INACTIVE",
+            "vodafoneindia.tt.omtrdc.net": "INACTIVE"
         }
     }
 }
