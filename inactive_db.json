@@ -3,82 +3,6 @@
         "1560844584": {}
     },
     "/home/travis/build/dead-hosts/add.2o7Net_git_FadeMind/domains.list": {
-        "1570959291": {
-            "softbank.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570959422": {
-            "cbtnuggets.tt.omtrdc.net": "INACTIVE",
-            "ldschurch.tt.omtrdc.net": "INACTIVE",
-            "libertyglobalpaneu.tt.omtrdc.net": "INACTIVE",
-            "telefonicauklimited.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570959423": {
-            "legalzoom.tt.omtrdc.net": "INACTIVE",
-            "virginmobileusa.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570959424": {
-            "christianbroadcastne.tt.omtrdc.net": "INACTIVE",
-            "christianscience.tt.omtrdc.net": "INACTIVE",
-            "lowes.tt.omtrdc.net": "INACTIVE",
-            "ubm.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570959554": {
-            "jade853gmbh.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570959555": {
-            "creditagricole.tt.omtrdc.net": "INACTIVE",
-            "jcb.tt.omtrdc.net": "INACTIVE",
-            "vodafoneuk.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570959556": {
-            "nautilus.tt.omtrdc.net": "INACTIVE",
-            "tdameritrade.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570963395": {
-            "shell.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570963396": {
-            "bcbsks.com.102.112.2o7.net": "INACTIVE",
-            "ups.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570963397": {
-            "americaneagleoutfitt.tt.omtrdc.net": "INACTIVE",
-            "consumerreports.tt.omtrdc.net": "INACTIVE",
-            "mcafee12.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570963398": {
-            "deseretdigitalmedia.tt.omtrdc.net": "INACTIVE",
-            "duluthtrading.tt.omtrdc.net": "INACTIVE",
-            "toysrus.tt.omtrdc.net": "INACTIVE",
-            "williamhill.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570963399": {
-            "constantcontact.tt.omtrdc.net": "INACTIVE",
-            "educationmanagementl.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570963400": {
-            "makemytrip.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570963401": {
-            "marriottinternationa.tt.omtrdc.net": "INACTIVE",
-            "mcdonaldscorporation.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570963402": {
-            "aclu.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570963531": {
-            "trendmicro.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570963535": {
-            "overstock.tt.omtrdc.net": "INACTIVE",
-            "rentcom.tt.omtrdc.net": "INACTIVE",
-            "usaa.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570963536": {
-            "premierfarnell.tt.omtrdc.net": "INACTIVE",
-            "primetimesolutions.tt.omtrdc.net": "INACTIVE",
-            "vodafoneindia.tt.omtrdc.net": "INACTIVE"
-        },
         "1571132543": {
             "australianewzealandb.tt.omtrdc.net": "INACTIVE",
             "neccorp.tt.omtrdc.net": "INACTIVE"
@@ -168,6 +92,62 @@
         },
         "1571133074": {
             "condenast.insight.omtrdc.net": "INACTIVE"
+        },
+        "1571139033": {
+            "christianbroadcastne.tt.omtrdc.net": "INACTIVE",
+            "educationmanagementl.tt.omtrdc.net": "INACTIVE",
+            "tdameritrade.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571139034": {
+            "creditagricole.tt.omtrdc.net": "INACTIVE",
+            "ldschurch.tt.omtrdc.net": "INACTIVE",
+            "legalzoom.tt.omtrdc.net": "INACTIVE",
+            "marriottinternationa.tt.omtrdc.net": "INACTIVE",
+            "mcdonaldscorporation.tt.omtrdc.net": "INACTIVE",
+            "premierfarnell.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571139035": {
+            "aclu.tt.omtrdc.net": "INACTIVE",
+            "lowes.tt.omtrdc.net": "INACTIVE",
+            "makemytrip.tt.omtrdc.net": "INACTIVE",
+            "vodafoneindia.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571139036": {
+            "bcbsks.com.102.112.2o7.net": "INACTIVE",
+            "deseretdigitalmedia.tt.omtrdc.net": "INACTIVE",
+            "primetimesolutions.tt.omtrdc.net": "INACTIVE",
+            "softbank.tt.omtrdc.net": "INACTIVE",
+            "virginmobileusa.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571139037": {
+            "cbtnuggets.tt.omtrdc.net": "INACTIVE",
+            "consumerreports.tt.omtrdc.net": "INACTIVE",
+            "nautilus.tt.omtrdc.net": "INACTIVE",
+            "trendmicro.tt.omtrdc.net": "INACTIVE",
+            "ups.tt.omtrdc.net": "INACTIVE",
+            "vodafoneuk.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571139038": {
+            "americaneagleoutfitt.tt.omtrdc.net": "INACTIVE",
+            "constantcontact.tt.omtrdc.net": "INACTIVE",
+            "duluthtrading.tt.omtrdc.net": "INACTIVE",
+            "jcb.tt.omtrdc.net": "INACTIVE",
+            "shell.tt.omtrdc.net": "INACTIVE",
+            "usaa.tt.omtrdc.net": "INACTIVE",
+            "williamhill.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571139039": {
+            "christianscience.tt.omtrdc.net": "INACTIVE",
+            "jade853gmbh.tt.omtrdc.net": "INACTIVE",
+            "mcafee12.tt.omtrdc.net": "INACTIVE",
+            "rentcom.tt.omtrdc.net": "INACTIVE",
+            "telefonicauklimited.tt.omtrdc.net": "INACTIVE",
+            "toysrus.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571139040": {
+            "libertyglobalpaneu.tt.omtrdc.net": "INACTIVE",
+            "overstock.tt.omtrdc.net": "INACTIVE",
+            "ubm.tt.omtrdc.net": "INACTIVE"
         }
     }
 }
