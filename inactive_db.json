@@ -3,65 +3,6 @@
         "1560844584": {}
     },
     "/home/travis/build/dead-hosts/add.2o7Net_git_FadeMind/domains.list": {
-        "1571132544": {
-            "insightenterprises.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571132675": {
-            "consumerinfo.tt.omtrdc.net": "INACTIVE",
-            "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE"
-        },
-        "1571132676": {
-            "channel4.com.ssl.sc.omtrdc.net": "INACTIVE",
-            "veritastechnologiesl.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571132806": {
-            "webmdcom.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571132809": {
-            "guthyrenker.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571132810": {
-            "alchemyworldwide.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571132811": {
-            "comcastresidentialservices.tt.omtrdc.net": "INACTIVE",
-            "myfamilycominc.tt.omtrdc.net": "INACTIVE",
-            "oreck.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571132812": {
-            "adobe.tt.omtrdc.net": "INACTIVE",
-            "arthurmiddletoncapit.tt.omtrdc.net": "INACTIVE",
-            "espndotcom.tt.omtrdc.net": "INACTIVE",
-            "microsoftwindowscom.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571132813": {
-            "nationalbankofnewzea.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571139033": {
-            "christianbroadcastne.tt.omtrdc.net": "INACTIVE",
-            "tdameritrade.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571139035": {
-            "lowes.tt.omtrdc.net": "INACTIVE",
-            "makemytrip.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571139036": {
-            "primetimesolutions.tt.omtrdc.net": "INACTIVE",
-            "virginmobileusa.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571139037": {
-            "nautilus.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571139038": {
-            "jcb.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571139039": {
-            "telefonicauklimited.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571139040": {
-            "libertyglobalpaneu.tt.omtrdc.net": "INACTIVE",
-            "overstock.tt.omtrdc.net": "INACTIVE"
-        },
         "1571255196": {
             "aclu.tt.omtrdc.net": "INACTIVE",
             "condenast.insight.omtrdc.net": "INACTIVE",
@@ -162,6 +103,43 @@
         },
         "1571255468": {
             "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
+        },
+        "1571265414": {
+            "arthurmiddletoncapit.tt.omtrdc.net": "INACTIVE",
+            "christianbroadcastne.tt.omtrdc.net": "INACTIVE",
+            "consumerinfo.tt.omtrdc.net": "INACTIVE",
+            "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE",
+            "primetimesolutions.tt.omtrdc.net": "INACTIVE",
+            "webmdcom.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571265415": {
+            "comcastresidentialservices.tt.omtrdc.net": "INACTIVE",
+            "libertyglobalpaneu.tt.omtrdc.net": "INACTIVE",
+            "microsoftwindowscom.tt.omtrdc.net": "INACTIVE",
+            "myfamilycominc.tt.omtrdc.net": "INACTIVE",
+            "overstock.tt.omtrdc.net": "INACTIVE",
+            "veritastechnologiesl.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571265416": {
+            "alchemyworldwide.tt.omtrdc.net": "INACTIVE",
+            "guthyrenker.tt.omtrdc.net": "INACTIVE",
+            "jcb.tt.omtrdc.net": "INACTIVE",
+            "makemytrip.tt.omtrdc.net": "INACTIVE",
+            "nautilus.tt.omtrdc.net": "INACTIVE",
+            "virginmobileusa.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571265417": {
+            "adobe.tt.omtrdc.net": "INACTIVE",
+            "espndotcom.tt.omtrdc.net": "INACTIVE",
+            "insightenterprises.tt.omtrdc.net": "INACTIVE",
+            "lowes.tt.omtrdc.net": "INACTIVE",
+            "nationalbankofnewzea.tt.omtrdc.net": "INACTIVE",
+            "oreck.tt.omtrdc.net": "INACTIVE",
+            "tdameritrade.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571265418": {
+            "channel4.com.ssl.sc.omtrdc.net": "INACTIVE",
+            "telefonicauklimited.tt.omtrdc.net": "INACTIVE"
         }
     }
 }
