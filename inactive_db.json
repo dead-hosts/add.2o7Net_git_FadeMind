@@ -3,25 +3,6 @@
         "1560844584": {}
     },
     "/home/travis/build/dead-hosts/add.2o7Net_git_FadeMind/domains.list": {
-        "1572425895": {
-            "192.168.112.2o7.net": "INACTIVE"
-        },
-        "1572425896": {
-            "aclu.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572425897": {
-            "adobe.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572425901": {
-            "alchemyworldwide.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572425903": {
-            "amazonwebservicesinc.tt.omtrdc.net": "INACTIVE",
-            "americaneagleoutfitt.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572425905": {
-            "angieslist.tt.omtrdc.net": "INACTIVE"
-        },
         "1572425917": {
             "arthurmiddletoncapit.tt.omtrdc.net": "INACTIVE",
             "asadventure.tt.omtrdc.net": "INACTIVE"
@@ -262,6 +243,27 @@
         },
         "1572426172": {
             "wpni.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572512317": {
+            "192.168.112.2o7.net": "INACTIVE"
+        },
+        "1572512319": {
+            "aclu.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572512320": {
+            "adobe.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572512323": {
+            "alchemyworldwide.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572512325": {
+            "amazonwebservicesinc.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572512326": {
+            "americaneagleoutfitt.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572512327": {
+            "angieslist.tt.omtrdc.net": "INACTIVE"
         }
     }
 }
