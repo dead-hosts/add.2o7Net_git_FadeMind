@@ -3,12 +3,8 @@
         "1560844584": {}
     },
     "/home/travis/build/dead-hosts/add.2o7Net_git_FadeMind/domains.list": {
-        "1579341378": {
-            "cisco.112.2o7.net": "INACTIVE",
-            "ice.112.2o7.net": "INACTIVE"
-        },
-        "1579342075": {
-            "timeew.122.2o7.net": "INACTIVE"
+        "1579513793": {
+            "primetimesolutions.tt.omtrdc.net": "INACTIVE"
         }
     }
 }
