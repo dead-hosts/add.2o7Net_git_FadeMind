@@ -2,45 +2,5 @@
     "/home/travis/build/dead-hosts/add.2o7Net_git_FadeMind/add.2o7Net.list": {
         "1560844584": {}
     },
-    "/home/travis/build/dead-hosts/add.2o7Net_git_FadeMind/domains.list": {
-        "1580640491": {
-            "asadventure.tt.omtrdc.net": "INACTIVE",
-            "bhgremodel.112.2o7.net": "INACTIVE",
-            "bhgscrap.112.2o7.net": "INACTIVE",
-            "constantcontact.tt.omtrdc.net": "INACTIVE",
-            "consumerinfo.tt.omtrdc.net": "INACTIVE"
-        },
-        "1580640492": {
-            "gigamon.tt.omtrdc.net": "INACTIVE",
-            "intuitinc.122.2o7.net": "INACTIVE",
-            "mgtbopanels.112.2o7.net": "INACTIVE",
-            "mgtimesdispatch.112.2o7.net": "INACTIVE",
-            "midar.112.2o7.net": "INACTIVE",
-            "midcru.112.2o7.net": "INACTIVE",
-            "nmcolumbia.112.2o7.net": "INACTIVE",
-            "nmcomnancomedia.112.2o7.net": "INACTIVE",
-            "pultheworldlink.112.2o7.net": "INACTIVE",
-            "questdsgsupport.112.2o7.net": "INACTIVE"
-        },
-        "1580681865": {
-            "aumomotortrend.112.2o7.net": "INACTIVE",
-            "aumonewcarcom.112.2o7.net": "INACTIVE",
-            "ciscolearningnetwork.tt.omtrdc.net": "INACTIVE",
-            "ciscowebex.112.2o7.net": "INACTIVE",
-            "dixonscouk.112.2o7.net": "INACTIVE",
-            "flyingmag.com.122.2o7.net": "INACTIVE",
-            "ford.112.2o7.net": "INACTIVE",
-            "lakeshore.d1.sc.omtrdc.net": "INACTIVE"
-        },
-        "1580681866": {
-            "msnbcnewsvine.112.2o7.net": "INACTIVE",
-            "msnbcom.112.2o7.net": "INACTIVE",
-            "newjobs.d1.sc.omtrdc.net": "INACTIVE",
-            "newlook.112.2o7.net": "INACTIVE",
-            "plsoyfoods.112.2o7.net": "INACTIVE",
-            "poacprod.122.2o7.net": "INACTIVE",
-            "popcapgames.122.2o7.net": "INACTIVE",
-            "popsci.com.122.2o7.net": "INACTIVE"
-        }
-    }
+    "/home/travis/build/dead-hosts/add.2o7Net_git_FadeMind/domains.list": {}
 }
