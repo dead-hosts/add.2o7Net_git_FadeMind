@@ -2,14 +2,14 @@
     "currently_under_test": false,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 0.0,
-    "finish_datetime": "2020-09-22T14:58:41.523082",
-    "finish_timestamp": 1600786721.523082,
-    "last_download_datetime": "2020-09-22T14:56:09.483387",
-    "last_download_timestamp": 1600786569.483387,
-    "latest_part_finish_datetime": "2020-09-22T14:58:41.523082",
-    "latest_part_finish_timestamp": 1600786721.523082,
-    "latest_part_start_datetime": "2020-09-22T14:56:09.494551",
-    "latest_part_start_timestamp": 1600786569.494551,
+    "finish_datetime": "2020-09-24T15:01:59.858566",
+    "finish_timestamp": 1600959719.858566,
+    "last_download_datetime": "2020-09-24T14:59:48.331963",
+    "last_download_timestamp": 1600959588.331963,
+    "latest_part_finish_datetime": "2020-09-24T15:01:59.858566",
+    "latest_part_finish_timestamp": 1600959719.858566,
+    "latest_part_start_datetime": "2020-09-24T14:59:48.342306",
+    "latest_part_start_timestamp": 1600959588.342306,
     "live_update": true,
     "name": "add.2o7Net_git_FadeMind",
     "own_management": false,
@@ -17,6 +17,6 @@
         "@FadeMind"
     ],
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
-    "start_datetime": "2020-09-22T14:56:09.489930",
-    "start_timestamp": 1600786569.48993
+    "start_datetime": "2020-09-24T14:59:48.338511",
+    "start_timestamp": 1600959588.338511
 }
