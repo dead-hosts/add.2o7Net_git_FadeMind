@@ -5464,6 +5464,7 @@
         "uk.net",
         "in.net",
         "clic2000.net",
+        "clickrising.net",
         "cloudaccess.net",
         "cdn77-ssl.net",
         "r.cdn77.net",
@@ -5591,6 +5592,8 @@
         "serveminecraft.net",
         "sytes.net",
         "cloudycluster.net",
+        "webpaas.ovh.net",
+        "hosting.ovh.net",
         "bar0.net",
         "bar1.net",
         "bar2.net",
@@ -5677,6 +5680,7 @@
         "demon.nl"
     ],
     "no": [
+        "gs.nt.no",
         "fhs.no",
         "vgs.no",
         "fylkesbibl.no",
@@ -5719,7 +5723,6 @@
         "gs.jan-mayen.no",
         "gs.mr.no",
         "gs.nl.no",
-        "gs.nt.no",
         "gs.of.no",
         "gs.ol.no",
         "gs.oslo.no",
@@ -7220,6 +7223,7 @@
         "info.sd"
     ],
     "se": [
+        "f.se",
         "a.se",
         "ac.se",
         "b.se",
@@ -7228,7 +7232,6 @@
         "c.se",
         "d.se",
         "e.se",
-        "f.se",
         "fh.se",
         "fhsk.se",
         "fhv.se",
