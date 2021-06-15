@@ -796,7 +796,6 @@
         "ck"
     ],
     "cl": [
-        "aprendemas.cl",
         "blogspot.cl",
         "co.cl",
         "gob.cl",
@@ -998,6 +997,7 @@
         "dattolocal.com",
         "dattorelay.com",
         "dattoweb.com",
+        "ddns5.com",
         "ddnsfree.com",
         "ddnsgeek.com",
         "ddnsking.com",
@@ -1665,6 +1665,7 @@
         "eun.eg",
         "gov.eg",
         "mil.eg",
+        "mypep.link",
         "name.eg",
         "net.eg",
         "org.eg",
@@ -4705,8 +4706,7 @@
     ],
     "link": [
         "cyon.link",
-        "dweb.link",
-        "mypep.link"
+        "dweb.link"
     ],
     "lk": [
         "ac.lk",
@@ -5762,7 +5762,6 @@
         "west1-us.cloudjiffy.net",
         "westeurope.azurestaticapps.net",
         "westus2.azurestaticapps.net",
-        "xn--h1ahn.xn--p1acf",
         "yandexcloud.net",
         "za.net"
     ],
@@ -6776,6 +6775,7 @@
         "org.nr"
     ],
     "nu": [
+        "blogspot.com.eg",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
@@ -8544,6 +8544,7 @@
         "xn--90a1af.xn--p1acf",
         "xn--90amc.xn--p1acf",
         "xn--c1avg.xn--p1acf",
+        "xn--h1ahn.xn--p1acf",
         "xn--h1aliz.xn--p1acf",
         "xn--j1adp.xn--p1acf",
         "xn--j1aef.xn--p1acf",
@@ -8551,6 +8552,7 @@
         "биз.рус",
         "ком.рус",
         "крым.рус",
+        "мир.рус",
         "мск.рус",
         "орг.рус",
         "самара.рус",
