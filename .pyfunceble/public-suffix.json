@@ -4682,7 +4682,6 @@
     ],
     "lb": [
         "com.lb",
-        "edu.lb",
         "gov.lb",
         "net.lb",
         "org.lb"
@@ -8533,6 +8532,7 @@
     "zw": [
         "ac.zw",
         "co.zw",
+        "edu.lb",
         "gov.zw",
         "mil.zw",
         "org.zw"
