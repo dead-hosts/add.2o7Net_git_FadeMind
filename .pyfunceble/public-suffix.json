@@ -492,6 +492,7 @@
         "app.br",
         "arq.br",
         "art.br",
+        "asso.ci",
         "ato.br",
         "b.br",
         "ba.gov.br",
@@ -4682,6 +4683,7 @@
     ],
     "lb": [
         "com.lb",
+        "edu.lb",
         "gov.lb",
         "net.lb",
         "org.lb"
@@ -8532,7 +8534,6 @@
     "zw": [
         "ac.zw",
         "co.zw",
-        "edu.lb",
         "gov.zw",
         "mil.zw",
         "org.zw"
