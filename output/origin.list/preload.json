@@ -1,0 +1,15 @@
+[
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "origin.list",
+        "hash": "6c159dd3942dc21c92d3631ef7fc5d276b3a921f80a52e13aaf740ea",
+        "line_number": 1287,
+        "output_dir": "/home/runner/work/add.2o7Net_git_FadeMind/add.2o7Net_git_FadeMind/output/origin.list",
+        "previous_hash": "6c159dd3942dc21c92d3631ef7fc5d276b3a921f80a52e13aaf740ea",
+        "session_id": "cfec343de11f2b0bf6b7501f",
+        "source": "origin.list",
+        "subject": "origin.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
