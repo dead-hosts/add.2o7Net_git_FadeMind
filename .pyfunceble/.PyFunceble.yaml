@@ -154,6 +154,7 @@ proxy:
         https: null
     rules: []
 share_logs: false
+tp_retries: 3
 user_agent:
     browser: chrome
     custom: null
