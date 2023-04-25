@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-analytics.cinemax.tv,AVAILABILITY,origin.list,2023-04-23 05:29:53.312678
 adbmetrics.canal-literatura.com,AVAILABILITY,origin.list,2023-04-24 05:30:19.435687
 smetrics.ftd.com,AVAILABILITY,origin.list,2023-04-24 05:30:19.680689
 analytics.eleague.com,AVAILABILITY,origin.list,2023-04-24 05:30:19.731957
@@ -8,3 +7,4 @@ metrics.pulte.com,AVAILABILITY,origin.list,2023-04-24 05:30:19.995942
 analytics.tnt.com.br,AVAILABILITY,origin.list,2023-04-24 05:30:20.350427
 sanalytics.cartoonnetwork.com.tw,AVAILABILITY,origin.list,2023-04-24 05:30:20.513123
 smetrics.bankia.es,AVAILABILITY,origin.list,2023-04-24 05:30:21.120705
+analytics.cinemax.tv,AVAILABILITY,origin.list,2023-04-25 05:27:46.528083
